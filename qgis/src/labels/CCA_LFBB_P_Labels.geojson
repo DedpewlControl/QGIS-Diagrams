@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFBB_P_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "P1 2", "subsector_id": "P1 2", "name": "P1 2", "level_lower": 265, "level_upper": 295, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 2.339999033360554, 47.500803762174435 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "P2", "subsector_id": "P2", "name": "P2", "level_lower": 295, "level_upper": 345, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 31, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 2.339999033360554, 47.500803762174435 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "P3", "subsector_id": "P3", "name": "P3", "level_lower": 345, "level_upper": 365, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 32, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 2.339999033360554, 47.500803762174435 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "P4", "subsector_id": "P4", "name": "P4", "level_lower": 365, "level_upper": 660, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 33, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 2.339999033360554, 47.500803762174435 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "P1 1", "subsector_id": "P1 1", "name": "P1 1", "level_lower": 195, "level_upper": 265, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 2.72183075211082, 46.687972419916157 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "P2", "subsector_id": "P2", "name": "P2", "level_lower": 295, "level_upper": 345, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 32, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 2.72183075211082, 46.687972419916157 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "P3", "subsector_id": "P3", "name": "P3", "level_lower": 345, "level_upper": 365, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 33, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 2.72183075211082, 46.687972419916157 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "P4", "subsector_id": "P4", "name": "P4", "level_lower": 365, "level_upper": 660, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 34, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 2.72183075211082, 46.687972419916157 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "P1 2", "subsector_id": "P1 2", "name": "P1 2", "level_lower": 265, "level_upper": 295, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 31, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 2.72183075211082, 46.687972419916157 ] } }
+]
+}

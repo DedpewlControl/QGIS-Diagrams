@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "CCA_LFBB_TG_Labels",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "LFBB:TG UAC:145-195", "subsector_id": "", "name": "TG UAC", "level_lower": 145, "level_upper": 195, "callout_x1": 2.0537604927137112, "callout_y1": 43.579581944444442, "callout_x2": 2.0537604927137112, "callout_y2": 43.579581944444442, "style": 10, "buffer": 1 }, "geometry": { "type": "Point", "coordinates": [ 2.053760492713711, 43.579581944444442 ] } }
-]
-}
