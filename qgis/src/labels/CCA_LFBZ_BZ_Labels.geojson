@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFBZ_BZ_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "LFBB:BIARRITZ BZ:020-145", "subsector_id": "", "name": "BZ", "level_lower": 0, "level_upper": 145, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 10, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -1.261986894352569, 43.714305116663979 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "PY", "subsector_id": "PY", "name": "PY", "level_lower": 0, "level_upper": 145, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -0.736240388360917, 43.26407456073678 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "PY", "subsector_id": "PY", "name": "PY", "level_lower": 0, "level_upper": 145, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -0.611458780926189, 43.862036578720215 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "BE", "subsector_id": "BE", "name": "BE", "level_lower": 0, "level_upper": 145, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -0.476694644896691, 44.162371855995239 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "BW", "subsector_id": "BW", "name": "BW", "level_lower": 0, "level_upper": 145, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -1.145524060746826, 44.30899276421831 ] } },
+{ "type": "Feature", "properties": { "fir": "LECM", "identifier": "LESO", "subsector_id": "LESO", "name": "LESO", "level_lower": 0, "level_upper": 95, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -1.865929874336647, 43.242262743834296 ] } },
+{ "type": "Feature", "properties": { "fir": "LECM", "identifier": "PAL", "subsector_id": "PAL", "name": "PAL", "level_lower": 0, "level_upper": 245, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -1.140532796449437, 42.968956032005458 ] } },
+{ "type": "Feature", "properties": { "fir": "LFRR", "identifier": "GS1", "subsector_id": "GS1", "name": "GS1", "level_lower": 0, "level_upper": 195, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -1.90585998871576, 43.900410923603495 ] } },
+{ "type": "Feature", "properties": { "fir": "LECM", "identifier": "PAL", "subsector_id": "PAL", "name": "PAL", "level_lower": 95, "level_upper": 245, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 21, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -1.865929874336647, 43.242262743834296 ] } }
+]
+}
