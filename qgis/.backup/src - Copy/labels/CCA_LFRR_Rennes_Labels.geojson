@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFRR_Rennes_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFRR", "identifier": "LFRR:RENNES", "subsector_id": "", "name": "RENNES", "level_lower": 115, "level_upper": 195, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 10, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -0.925836446009862, 48.708200337285952 ] } }
+]
+}

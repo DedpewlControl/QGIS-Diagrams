@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFMM_LE1_2_175-195_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFMM", "identifier": "LFMM:LE1 2 UAC", "subsector_id": "", "name": "LE1 1", "level_lower": 0, "level_upper": 175, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.032128967760845, 45.040342437951026 ] } },
+{ "type": "Feature", "properties": { "fir": "LFMM", "identifier": null, "subsector_id": null, "name": "LE1 2", "level_lower": 175, "level_upper": 195, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 31, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.032128967760845, 45.040342437951026 ] } }
+]
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="400mm"
+     height="200mm"
+     viewBox="0 0 400 200"
+     preserveAspectRatio="none">
+
+  <!-- White mask with transparent rounded centre -->
+  <path
+    fill="#ffffff"
+    fill-rule="evenodd"
+    d="
+      M0,0 H400 V200 H0 Z
+
+      M6,0
+      H394
+      A6,6 0 0 1 400,6
+      V194
+      A6,6 0 0 1 394,200
+      H6
+      A6,6 0 0 1 0,194
+      V6
+      A6,6 0 0 1 6,0
+      Z
+    "/>
+
+  <!-- Centre divider -->
+  <rect x="199" y="0" width="2" height="200" fill="#ffffff"/>
+
+</svg>

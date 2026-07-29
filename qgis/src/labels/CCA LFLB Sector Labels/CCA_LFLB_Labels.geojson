@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFLC_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFLB", "identifier": null, "subsector_id": null, "name": "LB1", "level_lower": "0", "level_upper": "95", "callout_x1": "5.6708", "callout_y1": "46.0091", "callout_x2": "5.5254", "callout_y2": "45.8623", "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 5.767792216890393, 46.066468510471651 ] } },
+{ "type": "Feature", "properties": { "fir": "LB", "identifier": null, "subsector_id": null, "name": "LB2", "level_lower": "95", "level_upper": "115", "callout_x1": "6.2184", "callout_y1": "45.6772", "callout_x2": "5.7963", "callout_y2": "45.7350", "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.386708989766639, 45.70513561246981 ] } },
+{ "type": "Feature", "properties": { "fir": "LFLB", "identifier": null, "subsector_id": null, "name": "LB1", "level_lower": "0", "level_upper": "95", "callout_x1": "6.1856", "callout_y1": "45.4426", "callout_x2": "5.9603", "callout_y2": "45.5306", "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.32966596922505, 45.443600452674758 ] } },
+{ "type": "Feature", "properties": { "fir": "LFLL", "identifier": null, "subsector_id": null, "name": "VE", "level_lower": "95", "level_upper": "145", "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 31, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.32966596922505, 45.443600452674758 ] } },
+{ "type": "Feature", "properties": { "fir": "LFLL", "identifier": null, "subsector_id": null, "name": "VE3", "level_lower": "95", "level_upper": "145", "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 31, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 5.767792216890393, 46.066468510471651 ] } },
+{ "type": "Feature", "properties": { "fir": "LFLB", "identifier": null, "subsector_id": null, "name": "LB1", "level_lower": "0", "level_upper": "95", "callout_x1": "6.0188", "callout_y1": "46.0684", "callout_x2": "6.0159", "callout_y2": "45.9179", "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.115754642194089, 46.125803262074548 ] } },
+{ "type": "Feature", "properties": { "fir": "LSGG", "identifier": null, "subsector_id": null, "name": "GENEVA", "level_lower": "95", "level_upper": "155", "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 11, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.115754642194089, 46.125803262074548 ] } },
+{ "type": "Feature", "properties": { "fir": "LSGG", "identifier": null, "subsector_id": null, "name": "GENEVA", "level_lower": "115", "level_upper": "155", "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 11, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.386708989766639, 45.70513561246981 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFRR_AS_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFRR", "identifier": "AS1", "subsector_id": "AS1", "name": "AS1", "level_lower": 0, "level_upper": 55, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -6.09055486111111, 46.03874861111111 ] } },
+{ "type": "Feature", "properties": { "fir": "LFRR", "identifier": "AS2", "subsector_id": "AS2", "name": "AS2", "level_lower": 55, "level_upper": 195, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 31, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -6.09055486111111, 46.03874861111111 ] } }
+]
+}

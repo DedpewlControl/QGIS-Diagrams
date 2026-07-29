@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFRR_W_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFRR", "identifier": "WS3", "subsector_id": "WS3", "name": "WS3", "level_lower": 195, "level_upper": 245, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -6.321482281207065, 48.301620589326042 ] } },
+{ "type": "Feature", "properties": { "fir": "LFRR", "identifier": "WS4", "subsector_id": "WS4", "name": "WS4", "level_lower": 245, "level_upper": 355, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 31, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -6.321482281207065, 48.301620589326042 ] } },
+{ "type": "Feature", "properties": { "fir": "LFRR", "identifier": "WI", "subsector_id": "WI", "name": "WI", "level_lower": 355, "level_upper": 375, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 32, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -6.321482281207065, 48.301620589326042 ] } },
+{ "type": "Feature", "properties": { "fir": "LFRR", "identifier": "WU", "subsector_id": "WU", "name": "WU", "level_lower": 375, "level_upper": 660, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 33, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -6.321482281207065, 48.301620589326042 ] } }
+]
+}

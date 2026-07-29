@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFMM_Z_FL195-FL660_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFMM", "identifier": "LFMM:ZH/ZL2 UAC", "subsector_id": "", "name": "ZL 2", "level_lower": 195, "level_upper": 355, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.33501807884007, 39.853194444444441 ] } },
+{ "type": "Feature", "properties": { "fir": "LFMM", "identifier": null, "subsector_id": null, "name": "ZH", "level_lower": 355, "level_upper": 660, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 31, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.33501807884007, 39.853194444444441 ] } }
+]
+}

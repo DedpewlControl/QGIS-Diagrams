@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFMM_BT2_195-245_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFMM", "identifier": "LFMM:BT2 UAC", "subsector_id": "", "name": "BT 2", "level_lower": 195, "level_upper": 245, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 10, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 8.503101051533971, 42.910970833333337 ] } }
+]
+}

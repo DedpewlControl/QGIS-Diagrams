@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFRR_Iroise_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFRR", "identifier": "LFRR:IROISE", "subsector_id": "", "name": "IROISE", "level_lower": 0, "level_upper": 195, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 10, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -3.689570791249878, 48.497788362042321 ] } }
+]
+}

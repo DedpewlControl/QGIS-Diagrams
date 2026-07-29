@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFMM_D_FL195-FL660_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFMM", "identifier": "LFMM:D UAC", "subsector_id": "", "name": "D1 2", "level_lower": 195, "level_upper": 335, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 10, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.503983982987855, 41.236280555555552 ] } },
+{ "type": "Feature", "properties": { "fir": "LFMM", "identifier": null, "subsector_id": null, "name": "D2", "level_lower": 335, "level_upper": 355, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 31, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.503983982987855, 41.236280555555552 ] } },
+{ "type": "Feature", "properties": { "fir": "LFMM", "identifier": null, "subsector_id": null, "name": "D3", "level_lower": 355, "level_upper": 375, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 32, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.503983982987855, 41.236280555555552 ] } },
+{ "type": "Feature", "properties": { "fir": "LFMM", "identifier": null, "subsector_id": null, "name": "D4", "level_lower": 375, "level_upper": 660, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 33, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.503983982987855, 41.236280555555552 ] } }
+]
+}

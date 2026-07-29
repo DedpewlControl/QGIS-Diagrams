@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "CCR_LFMM_UAC_Adjacent_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fir": "LIMM", "identifier": null, "subsector_id": null, "name": "MILANO UAC (LIMM)", "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 9.406894730406542, 43.822353567069079 ] } },
+{ "type": "Feature", "properties": { "fir": "LIRR", "identifier": null, "subsector_id": null, "name": "ROMA UAC (LIRR)", "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 9.268149826017236, 40.632516540289757 ] } },
+{ "type": "Feature", "properties": { "fir": "DAAA", "identifier": null, "subsector_id": null, "name": "ALGIERS UAC (DAAA)", "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.664642502476784, 38.831331457171004 ] } },
+{ "type": "Feature", "properties": { "fir": "LECB", "identifier": null, "subsector_id": null, "name": "BARCELONA UAC (LECB)", "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 4.199880083325635, 41.383872945073435 ] } },
+{ "type": "Feature", "properties": { "fir": "LECP", "identifier": null, "subsector_id": null, "name": "PALMA ACC (LECP)", "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 4.305979127858633, 39.966500316607949 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": null, "subsector_id": null, "name": "BORDEAUX UAC (LFBB)", "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 3.55512435116358, 45.282042175857349 ] } },
+{ "type": "Feature", "properties": { "fir": "LFFF", "identifier": null, "subsector_id": null, "name": "PARIS UAC (LFFF)", "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 4.640599191385775, 46.430181622701376 ] } },
+{ "type": "Feature", "properties": { "fir": "LFEE", "identifier": null, "subsector_id": null, "name": "REIMS UAC (LFEE)", "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.942132311255389, 47.812874974174449 ] } },
+{ "type": "Feature", "properties": { "fir": "LSAS", "identifier": null, "subsector_id": null, "name": "SWISS UAC (LSAS)", "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 20, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 7.227783584998074, 46.034995551006389 ] } }
+]
+}
