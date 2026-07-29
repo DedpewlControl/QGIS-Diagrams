@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_Overview_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFST", "identifier": null, "subsector_id": null, "name": "STRASBOURG", "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 10, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.917006962757966, 48.566450267975476 ] } },
+{ "type": "Feature", "properties": { "fir": "LFSB", "identifier": null, "subsector_id": null, "name": "BALE", "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 10, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 5.979599991857845, 47.373519988605686 ] } },
+{ "type": "Feature", "properties": { "fir": "47.4955", "identifier": null, "subsector_id": null, "name": null, "level_lower": null, "level_upper": null, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": null, "buffer": null }, "geometry": null }
+]
+}

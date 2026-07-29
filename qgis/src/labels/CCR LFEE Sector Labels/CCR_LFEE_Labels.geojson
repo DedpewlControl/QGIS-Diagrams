@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CCR_LFEE_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFEE", "identifier": null, "subsector_id": null, "name": "UE", "level_lower": "195", "level_upper": "315", "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.691924710870939, 48.630110367851266 ] } },
+{ "type": "Feature", "properties": { "fir": "LFEE", "identifier": null, "subsector_id": null, "name": "UF1", "level_lower": "195", "level_upper": "265", "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 5.58671618787764, 47.993872787504948 ] } },
+{ "type": "Feature", "properties": { "fir": "LFEE", "identifier": null, "subsector_id": null, "name": "UH", "level_lower": "195", "level_upper": "315", "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 6.549317159516964, 47.570648418906842 ] } },
+{ "type": "Feature", "properties": { "fir": "LFEE", "identifier": null, "subsector_id": null, "name": "UE", "level_lower": "195", "level_upper": "245", "callout_x1": "6.8969", "callout_y1": "49.4539", "callout_x2": "6.2314", "callout_y2": "49.2681", "style": 30, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 7.199964112569478, 49.558057952070016 ] } },
+{ "type": "Feature", "properties": { "fir": "EDYY", "identifier": null, "subsector_id": null, "name": "MAASTRICHT", "level_lower": "245", "level_upper": "660", "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 51, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 7.199964112569478, 49.558057952070016 ] } }
+]
+}
