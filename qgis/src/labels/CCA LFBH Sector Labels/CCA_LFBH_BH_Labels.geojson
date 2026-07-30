@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFBH_BH_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "LFBB:LA ROCHELLE BH:020-115", "subsector_id": "", "name": "BH", "level_lower": 0, "level_upper": 115, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 10, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -1.177407318519692, 46.363969415965656 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "LFBB:LA ROCHELLE BH:115-145", "subsector_id": "", "name": "BW", "level_lower": 115, "level_upper": 145, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 11, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -1.120161517159551, 45.934098007283325 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "BH", "subsector_id": "BH", "name": "BH", "level_lower": 0, "level_upper": 115, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 10, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -1.120161517159551, 45.934098007283325 ] } },
+{ "type": "Feature", "properties": { "fir": "LFRR", "identifier": "LU", "subsector_id": "LU", "name": "LU", "level_lower": 115, "level_upper": 195, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 11, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -1.177407318519692, 46.363969415965656 ] } }
+]
+}

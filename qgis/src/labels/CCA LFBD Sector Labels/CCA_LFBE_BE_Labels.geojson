@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFBE_BE_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "LFBB:AQUITAINE BE:020-075", "name": "BE1", "level_lower": 0, "level_upper": 75, "subsector_id": "BE1", "style": 10, "buffer": false }, "geometry": { "type": "Point", "coordinates": [ 0.721381043063084, 45.079764938375554 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "LFBB:AQUITAINE BE:075-145", "name": "BE2", "level_lower": 75, "level_upper": 145, "subsector_id": "BE2", "style": 11, "buffer": false }, "geometry": { "type": "Point", "coordinates": [ 0.721381043063084, 45.079764938375554 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": null, "name": "BE1", "level_lower": 0, "level_upper": 75, "subsector_id": "BE1", "style": 10, "buffer": false, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null }, "geometry": { "type": "Point", "coordinates": [ -0.22183421456406, 45.43653210629104 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBD", "identifier": null, "name": "BW1", "level_lower": 75, "level_upper": 145, "subsector_id": null, "style": 31, "buffer": false, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null }, "geometry": { "type": "Point", "coordinates": [ -0.22183421456406, 45.43653210629104 ] } },
+{ "type": "Feature", "properties": { "fir": "LFBD", "identifier": null, "name": "BE2", "level_lower": 0, "level_upper": 145, "subsector_id": null, "style": 30, "buffer": false, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null }, "geometry": { "type": "Point", "coordinates": [ -1.01958976981015, 44.978568107604389 ] } }
+]
+}

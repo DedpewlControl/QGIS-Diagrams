@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CCA_LFBZ_BZ_Labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fir": "LFBB", "identifier": "LFBB:BIARRITZ BZ:020-145", "subsector_id": "", "name": "BZ", "level_lower": 0, "level_upper": 145, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 10, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ -1.261986894352569, 43.714305116663979 ] } }
+]
+}
