@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "LFBB_LFBO_STAR_LABELS",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"xy_coordinate_resolution": 1e-15,
-"features": [
-{ "type": "Feature", "properties": { "fir": null, "identifier": null, "subsector_id": null, "name": "NARAK", "level_lower": 0, "level_upper": 150, "callout_x1": null, "callout_y1": null, "callout_x2": null, "callout_y2": null, "style": 11, "buffer": null }, "geometry": { "type": "Point", "coordinates": [ 1.750157117764289, 44.356896843751748 ] } }
-]
-}
